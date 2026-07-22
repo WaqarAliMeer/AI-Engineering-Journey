@@ -1,0 +1,92 @@
+[
+    {
+        "type": "income",
+        "category": "Taxi",
+        "amount": 250,
+        "date": "2026-07-19"
+    },
+    {
+        "type": "expense",
+        "category": "Fuel",
+        "amount": 50,
+        "date": "2026-07-12"
+    },
+    {
+        "type": "income",
+        "category": "Taxi",
+        "amount": 250,
+        "date": "2026-07-02"
+    },
+    {
+        "type": "expense",
+        "category": "Fuel",
+        "amount": 50,
+        "date": "2026-07-07"
+    },
+    {
+        "type": "expense",
+        "category": "Maintenance",
+        "amount": 100,
+        "date": "2026-07-14"
+    },
+    {
+        "type": "income",
+        "category": "Meter",
+        "amount": 220,
+        "date": "2026-07-12"
+    },
+    {
+        "type": "expense",
+        "category": "Eat",
+        "amount": 70,
+        "date": "2026-07-17"
+    },
+    {
+        "type": "expense",
+        "category": "Wash",
+        "amount": 90,
+        "date": "2026-07-20"
+    },
+    {
+        "type": "income",
+        "category": "delivering",
+        "amount": 33.0,
+        "date": "2026-07-21"
+    },
+    {
+        "type": "income",
+        "category": "BOLT",
+        "amount": 345.0,
+        "date": "2026-07-22"
+    },
+    {
+        "type": "expense",
+        "category": "Fuel",
+        "amount": 90.0,
+        "date": "2026-07-24"
+    },
+    {
+        "type": "income",
+        "category": "aram",
+        "amount": 0.0,
+        "date": "2026-07-21"
+    },
+    {
+        "type": "income",
+        "category": "kam",
+        "amount": 32.0,
+        "date": "2026-07-22"
+    },
+    {
+        "type": "income",
+        "category": "Foodora",
+        "amount": 1300.0,
+        "date": "2026-07-22"
+    },
+    {
+        "type": "expense",
+        "category": "Micra",
+        "amount": 900.0,
+        "date": "2026-07-21"
+    }
+]
